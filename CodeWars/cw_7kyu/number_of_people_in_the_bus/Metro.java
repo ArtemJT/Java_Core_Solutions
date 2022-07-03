@@ -1,5 +1,3 @@
-import java.util.ArrayList;
-
 /**
 You are provided with a list (or array) of integer pairs.
 Elements of each pair represent number of people get into bus (The first item)
@@ -16,6 +14,8 @@ So the return integer can't be negative.
 
 The second value in the first integer array is 0, since the bus is empty in the first bus stop.
  */
+
+import java.util.ArrayList;
 
 public class Metro {
     public static int countPassengers(ArrayList<int[]> stops) {
