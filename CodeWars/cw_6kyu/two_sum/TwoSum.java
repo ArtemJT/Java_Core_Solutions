@@ -1,5 +1,3 @@
-import java.util.Arrays;
-
 /**
 Write a function that takes an array of numbers (integers for the tests) and a target number.
 It should find two different items in the array that, when added together, give the target value.
@@ -22,12 +20,12 @@ public class TwoSum {
             for (int j = 0; j < numbers.length; j++) {
                 if (i != j) {
                     int b = numbers[j];
-                    if (a+b == target) {
-                        return new int[]{i,j};
+                    if (a + b == target) {
+                        return new int[]{i, j};
                     }
                 }
             }
         }
         return null;
     }
-
+}
