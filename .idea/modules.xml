@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java_Solutions.iml" filepath="$PROJECT_DIR$/.idea/Java_Solutions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CodeWars/cw_6kyu/cw_6kyu.iml" filepath="$PROJECT_DIR$/CodeWars/cw_6kyu/cw_6kyu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CodeWars/cw_7kyu/cw_7kyu.iml" filepath="$PROJECT_DIR$/CodeWars/cw_7kyu/cw_7kyu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CodeWars/cw_8kyu/cw_8kyu.iml" filepath="$PROJECT_DIR$/CodeWars/cw_8kyu/cw_8kyu.iml" />
+    </modules>
+  </component>
+</project>
