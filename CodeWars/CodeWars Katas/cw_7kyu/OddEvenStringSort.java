@@ -1,3 +1,5 @@
+package cw_7kyu;
+
 /**
  Given a string s. You have to return another string such that even-indexed
  and odd-indexed characters of s are grouped
@@ -22,7 +24,7 @@
  And the final string to return is 'Cdwr oeas'
  */
 
-public class OddEvenSort {
+public class OddEvenStringSort {
     public static String sortMyString(String s) {
         StringBuilder builder = new StringBuilder();
         StringBuilder builder1 = new StringBuilder();

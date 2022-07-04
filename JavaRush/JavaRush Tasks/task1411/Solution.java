@@ -1,4 +1,4 @@
-/*
+package task1411;/*
 User, Loser, Coder and Proger
 */
 /**

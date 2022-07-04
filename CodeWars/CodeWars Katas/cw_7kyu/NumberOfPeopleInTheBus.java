@@ -1,3 +1,5 @@
+package cw_7kyu;
+
 /**
 You are provided with a list (or array) of integer pairs.
 Elements of each pair represent number of people get into bus (The first item)
@@ -17,7 +19,7 @@ The second value in the first integer array is 0, since the bus is empty in the 
 
 import java.util.ArrayList;
 
-public class Metro {
+public class NumberOfPeopleInTheBus {
     public static int countPassengers(ArrayList<int[]> stops) {
         int result = 0;
         for (int[] ints : stops) {

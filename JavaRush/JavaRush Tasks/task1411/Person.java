@@ -1,3 +1,5 @@
+package task1411;
+
 public interface Person {
     class User implements Person {
         void live() {

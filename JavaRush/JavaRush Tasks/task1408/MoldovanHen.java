@@ -1,3 +1,5 @@
+package task1408;
+
 public class MoldovanHen extends Hen {
     @Override
     int getCountOfEggsPerMonth() {

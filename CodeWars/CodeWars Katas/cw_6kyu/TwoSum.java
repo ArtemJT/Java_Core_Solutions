@@ -1,3 +1,5 @@
+package cw_6kyu;
+
 /**
 Write a function that takes an array of numbers (integers for the tests) and a target number.
 It should find two different items in the array that, when added together, give the target value.
