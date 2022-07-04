@@ -1,30 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0c04f96d-147b-44a3-94f8-648da932d0ef" name="Changes" comment="Initial commit">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodeWars/cw_6kyu/cw_6kyu.iml" beforeDir="false" afterPath="$PROJECT_DIR$/CodeWars/CodeWars.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodeWars/cw_6kyu/two_sum/TwoSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/CodeWars/CodeWars Katas/cw_6kyu/TwoSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodeWars/cw_7kyu/cw_7kyu.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaRush/JavaRush.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodeWars/cw_7kyu/number_of_people_in_the_bus/Metro.java" beforeDir="false" afterPath="$PROJECT_DIR$/CodeWars/CodeWars Katas/cw_7kyu/NumberOfPeopleInTheBus.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodeWars/cw_7kyu/odd_even_string_sort/OddEvenSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/CodeWars/CodeWars Katas/cw_7kyu/OddEvenStringSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodeWars/cw_8kyu/cw_8kyu.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodeWars/cw_8kyu/i_love_you_a_little_a_lot_passionately_not_at_all/Sid.java" beforeDir="false" afterPath="$PROJECT_DIR$/CodeWars/CodeWars Katas/cw_8kyu/ILoveYouALittle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaRush/task1319/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaRush/JavaRush Tasks/task1319/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaRush/task1326/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaRush/JavaRush Tasks/task1326/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaRush/task1408/BelarusianHen.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaRush/JavaRush Tasks/task1408/BelarusianHen.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaRush/task1408/Country.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaRush/JavaRush Tasks/task1408/Country.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaRush/task1408/Hen.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaRush/JavaRush Tasks/task1408/Hen.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaRush/task1408/MoldovanHen.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaRush/JavaRush Tasks/task1408/MoldovanHen.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaRush/task1408/RussianHen.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaRush/JavaRush Tasks/task1408/RussianHen.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaRush/task1408/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaRush/JavaRush Tasks/task1408/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaRush/task1408/UkrainianHen.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaRush/JavaRush Tasks/task1408/UkrainianHen.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaRush/task1411/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaRush/JavaRush Tasks/task1411/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaRush/task1411/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaRush/JavaRush Tasks/task1411/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaRush/task1504/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaRush/JavaRush Tasks/task1504/Solution.java" afterDir="false" />
-    </list>
+    <list default="true" id="0c04f96d-147b-44a3-94f8-648da932d0ef" name="Changes" comment="Initial commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,7 +9,6 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-    <option name="SIGN_OFF_COMMIT" value="true" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -68,6 +44,9 @@
       <recent name="D:\User\MEGA\Документы\Java\GitHub\Java_Solutions\CodeWars" />
       <recent name="D:\User\MEGA\Документы\Java\GitHub\Java_Solutions\CodeWars\katas" />
       <recent name="D:\User\MEGA\Документы\Java\GitHub\Java_Solutions\CodeWars\6" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="cw_6kyu" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -114,7 +93,21 @@
       <option name="project" value="LOCAL" />
       <updated>1656865461787</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Initial commit">
+      <created>1656930586903</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1656930586903</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Initial commit">
+      <created>1656930740028</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1656930740028</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
