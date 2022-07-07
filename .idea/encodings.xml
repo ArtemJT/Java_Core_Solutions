@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
-    <file url="file://$PROJECT_DIR$/CodeWars/CodeWars Katas/cw_6kyu/Dinglemouse.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/CodeWars/CodeWars Katas/cw_6kyu/DeadAnts.java" charset="windows-1251" />
     <file url="file://$PROJECT_DIR$/CodeWars/CodeWars Katas/cw_7kyu/OddEvenStringSort.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/CodeWars/CodeWars Katas/cw_7kyu/TheOfficeI_Outed/Person.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/CodeWars/CodeWars Katas/cw_7kyu/TheOfficeI_Outed/SolutionTest.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/CodeWars/CodeWars Katas/cw_7kyu/TheOfficeI_Outed/TheOffice.java" charset="windows-1251" />
     <file url="file://$PROJECT_DIR$/CodeWars/cw_7kyu/odd_even_string_sort" charset="windows-1251" />
   </component>
 </project>

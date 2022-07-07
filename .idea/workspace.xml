@@ -1,11 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0c04f96d-147b-44a3-94f8-648da932d0ef" name="Changes" comment="Initial commit" />
+    <list default="true" id="0c04f96d-147b-44a3-94f8-648da932d0ef" name="Changes" comment="Initial commit">
+      <change afterPath="$PROJECT_DIR$/CodeWars/CodeWars Katas/cw_6kyu/FindTheOddInt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeWars/CodeWars Katas/cw_7kyu/JadenCasingStrings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeWars/CodeWars Katas/cw_8kyu/BinToDecimal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeWars/CodeWars Katas/cw_8kyu/ConvertNumberToReversedArrayOfDigits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeWars/CodeWars Katas/cw_8kyu/RockPaperScissors.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeWars/CodeWars Katas/cw_8kyu/ToSquareOrNotToSquare.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeWars/CodeWars Katas/cw_6kyu/Dinglemouse.java" beforeDir="false" afterPath="$PROJECT_DIR$/CodeWars/CodeWars Katas/cw_6kyu/DeadAnts.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -107,7 +124,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656930740028</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Initial commit">
+      <created>1656930809645</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1656930809645</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

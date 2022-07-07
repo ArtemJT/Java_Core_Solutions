@@ -17,7 +17,7 @@ The resulting carnage looks like this:
 Can you find how many ants have died?
  */
 
-public class Dinglemouse {
+public class DeadAnts {
     public static int deadAntCount(final String ants) {
         if (ants != null) {
             int countA = 0;
