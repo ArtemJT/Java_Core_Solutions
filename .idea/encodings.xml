@@ -2,10 +2,18 @@
 <project version="4">
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/CodeWars/CodeWars Katas/cw_6kyu/DeadAnts.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/CodeWars/CodeWars Katas/cw_7kyu/DotCalculator.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/CodeWars/CodeWars Katas/cw_7kyu/DotCalculator/SolutionTest.java" charset="windows-1251" />
     <file url="file://$PROJECT_DIR$/CodeWars/CodeWars Katas/cw_7kyu/OddEvenStringSort.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/CodeWars/CodeWars Katas/cw_7kyu/ScrabbleScore.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/CodeWars/CodeWars Katas/cw_7kyu/Scrabble_Score/KataTest.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/CodeWars/CodeWars Katas/cw_7kyu/SortedYesNoHow.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/CodeWars/CodeWars Katas/cw_7kyu/Sorted_yes_no_how/SolutionTest.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/CodeWars/CodeWars Katas/cw_7kyu/TheHighestProfitWins.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/CodeWars/CodeWars Katas/cw_7kyu/TheHighestProfitWins/MinMaxTest.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/CodeWars/CodeWars Katas/cw_7kyu/TheOfficeIOuted.java" charset="windows-1251" />
     <file url="file://$PROJECT_DIR$/CodeWars/CodeWars Katas/cw_7kyu/TheOfficeI_Outed/Person.java" charset="windows-1251" />
     <file url="file://$PROJECT_DIR$/CodeWars/CodeWars Katas/cw_7kyu/TheOfficeI_Outed/SolutionTest.java" charset="windows-1251" />
-    <file url="file://$PROJECT_DIR$/CodeWars/CodeWars Katas/cw_7kyu/TheOfficeI_Outed/TheOffice.java" charset="windows-1251" />
     <file url="file://$PROJECT_DIR$/CodeWars/cw_7kyu/odd_even_string_sort" charset="windows-1251" />
   </component>
 </project>

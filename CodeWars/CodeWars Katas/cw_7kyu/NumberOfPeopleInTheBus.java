@@ -1,6 +1,6 @@
 package cw_7kyu;
 
-/**
+/*
 You are provided with a list (or array) of integer pairs.
 Elements of each pair represent number of people get into bus (The first item)
 and number of people get off the bus (The second item) in a bus stop.

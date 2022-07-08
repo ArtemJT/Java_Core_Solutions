@@ -1,6 +1,6 @@
 package cw_7kyu;
 
-/**
+/*
  Your colleagues have been looking over you shoulder.
  When you should have been doing your boring real job,
  you've been using the work computers to smash in endless hours of codewars.

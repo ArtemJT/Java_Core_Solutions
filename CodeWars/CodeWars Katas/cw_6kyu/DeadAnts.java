@@ -1,6 +1,6 @@
 package cw_6kyu;
 
-/**
+/*
 An orderly trail of ants is marching across the park picnic area.
 
 It looks something like this:
