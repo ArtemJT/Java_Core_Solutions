@@ -1,19 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/CodeWars/CodeWars Katas/cw_6kyu/ArrayDiff/Kata.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/CodeWars/CodeWars Katas/cw_6kyu/ArrayDiff/SolutionTest.java" charset="windows-1251" />
     <file url="file://$PROJECT_DIR$/CodeWars/CodeWars Katas/cw_6kyu/DeadAnts.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/CodeWars/CodeWars Katas/cw_6kyu/MultiplesOf3Or5/Solution.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/CodeWars/CodeWars Katas/cw_6kyu/MultiplesOf3Or5/SolutionTest.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/CodeWars/CodeWars Katas/cw_6kyu/StopgninnipSMysdroW/SpinWords.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/CodeWars/CodeWars Katas/cw_6kyu/StopgninnipSMysdroW/SpinWordsTest.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/CodeWars/CodeWars Katas/cw_6kyu/SumOfDigits_DigitalRoot/DRoot.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/CodeWars/CodeWars Katas/cw_6kyu/SumOfDigits_DigitalRoot/DRootExampleTest.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/CodeWars/CodeWars Katas/cw_7kyu/DisemvowelTrolls.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/CodeWars/CodeWars Katas/cw_7kyu/DisemvowelTrolls/Tests.java" charset="windows-1251" />
     <file url="file://$PROJECT_DIR$/CodeWars/CodeWars Katas/cw_7kyu/DotCalculator.java" charset="windows-1251" />
     <file url="file://$PROJECT_DIR$/CodeWars/CodeWars Katas/cw_7kyu/DotCalculator/SolutionTest.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/CodeWars/CodeWars Katas/cw_7kyu/HighestAndLowest.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/CodeWars/CodeWars Katas/cw_7kyu/HighestAndLowest/KataTest.java" charset="windows-1251" />
     <file url="file://$PROJECT_DIR$/CodeWars/CodeWars Katas/cw_7kyu/OddEvenStringSort.java" charset="windows-1251" />
     <file url="file://$PROJECT_DIR$/CodeWars/CodeWars Katas/cw_7kyu/ScrabbleScore.java" charset="windows-1251" />
     <file url="file://$PROJECT_DIR$/CodeWars/CodeWars Katas/cw_7kyu/Scrabble_Score/KataTest.java" charset="windows-1251" />
     <file url="file://$PROJECT_DIR$/CodeWars/CodeWars Katas/cw_7kyu/SortedYesNoHow.java" charset="windows-1251" />
     <file url="file://$PROJECT_DIR$/CodeWars/CodeWars Katas/cw_7kyu/Sorted_yes_no_how/SolutionTest.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/CodeWars/CodeWars Katas/cw_7kyu/SquareEveryDigit.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/CodeWars/CodeWars Katas/cw_7kyu/SquareEveryDigit/SquareDigitTest.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/CodeWars/CodeWars Katas/cw_7kyu/SumOfOddNumbers.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/CodeWars/CodeWars Katas/cw_7kyu/SumOfOddNumbers/RowSumOddNumbersTest.java" charset="windows-1251" />
     <file url="file://$PROJECT_DIR$/CodeWars/CodeWars Katas/cw_7kyu/TheHighestProfitWins.java" charset="windows-1251" />
     <file url="file://$PROJECT_DIR$/CodeWars/CodeWars Katas/cw_7kyu/TheHighestProfitWins/MinMaxTest.java" charset="windows-1251" />
     <file url="file://$PROJECT_DIR$/CodeWars/CodeWars Katas/cw_7kyu/TheOfficeIOuted.java" charset="windows-1251" />
     <file url="file://$PROJECT_DIR$/CodeWars/CodeWars Katas/cw_7kyu/TheOfficeI_Outed/Person.java" charset="windows-1251" />
     <file url="file://$PROJECT_DIR$/CodeWars/CodeWars Katas/cw_7kyu/TheOfficeI_Outed/SolutionTest.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/CodeWars/CodeWars Katas/cw_7kyu/VowelCount.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/CodeWars/CodeWars Katas/cw_7kyu/VowelCount/VowelsTest.java" charset="windows-1251" />
     <file url="file://$PROJECT_DIR$/CodeWars/cw_7kyu/odd_even_string_sort" charset="windows-1251" />
   </component>
 </project>
