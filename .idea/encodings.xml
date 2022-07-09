@@ -1,15 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
-    <file url="file://$PROJECT_DIR$/CodeWars/CodeWars Katas/cw_6kyu/ArrayDiff/Kata.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/CodeWars/CodeWars Katas/cw_6kyu/ArrayDiff.java" charset="windows-1251" />
     <file url="file://$PROJECT_DIR$/CodeWars/CodeWars Katas/cw_6kyu/ArrayDiff/SolutionTest.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/CodeWars/CodeWars Katas/cw_6kyu/CreatePhoneNumber.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/CodeWars/CodeWars Katas/cw_6kyu/CreatePhoneNumber/PhoneExampleTests.java" charset="windows-1251" />
     <file url="file://$PROJECT_DIR$/CodeWars/CodeWars Katas/cw_6kyu/DeadAnts.java" charset="windows-1251" />
-    <file url="file://$PROJECT_DIR$/CodeWars/CodeWars Katas/cw_6kyu/MultiplesOf3Or5/Solution.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/CodeWars/CodeWars Katas/cw_6kyu/MultiplesOf3Or5.java" charset="windows-1251" />
     <file url="file://$PROJECT_DIR$/CodeWars/CodeWars Katas/cw_6kyu/MultiplesOf3Or5/SolutionTest.java" charset="windows-1251" />
-    <file url="file://$PROJECT_DIR$/CodeWars/CodeWars Katas/cw_6kyu/StopgninnipSMysdroW/SpinWords.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/CodeWars/CodeWars Katas/cw_6kyu/StopgninnipSMysdroW.java" charset="windows-1251" />
     <file url="file://$PROJECT_DIR$/CodeWars/CodeWars Katas/cw_6kyu/StopgninnipSMysdroW/SpinWordsTest.java" charset="windows-1251" />
-    <file url="file://$PROJECT_DIR$/CodeWars/CodeWars Katas/cw_6kyu/SumOfDigits_DigitalRoot/DRoot.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/CodeWars/CodeWars Katas/cw_6kyu/SumOfDigits_DigitalRoot.java" charset="windows-1251" />
     <file url="file://$PROJECT_DIR$/CodeWars/CodeWars Katas/cw_6kyu/SumOfDigits_DigitalRoot/DRootExampleTest.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/CodeWars/CodeWars Katas/cw_6kyu/WhoLikesIt.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/CodeWars/CodeWars Katas/cw_6kyu/WhoLikesIt/SolutionTest.java" charset="windows-1251" />
     <file url="file://$PROJECT_DIR$/CodeWars/CodeWars Katas/cw_7kyu/DisemvowelTrolls.java" charset="windows-1251" />
     <file url="file://$PROJECT_DIR$/CodeWars/CodeWars Katas/cw_7kyu/DisemvowelTrolls/Tests.java" charset="windows-1251" />
     <file url="file://$PROJECT_DIR$/CodeWars/CodeWars Katas/cw_7kyu/DotCalculator.java" charset="windows-1251" />
