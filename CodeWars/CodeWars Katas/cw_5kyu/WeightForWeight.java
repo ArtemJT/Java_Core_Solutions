@@ -35,22 +35,26 @@ import java.util.TreeMap;
 public class WeightForWeight {
 
     public static String orderWeight(String strng) {
-        String[] strngArr = strng.split(" ");
-        TreeMap<Integer, List<String>> map = new TreeMap<>();
-        for (String s : strngArr) {
-            List<String> list = new ArrayList<>();
-            int sum =  s.chars().map(Character::getNumericValue).sum();
-            if (!map.containsKey(sum)) {
-                list.add(s);
-                map.put(sum, list);
-            } else {
-                map.get(sum).add(s);
+        if (!strng.equals("")) {
+            String[] strngArr = strng.split(" ");
+            TreeMap<Integer, List<String>> map = new TreeMap<>();
+            for (String s : strngArr) {
+                List<String> list = new ArrayList<>();
+                int sum = s.chars().map(Character::getNumericValue).sum();
+                if (!map.containsKey(sum)) {
+                    list.add(s);
+                    map.put(sum, list);
+                } else {
+                    map.get(sum).add(s);
+                }
             }
+            map.values().forEach(Collections::sort);
+            StringBuilder builder = new StringBuilder();
+            map.values().forEach(value ->
+                    value.forEach(str -> builder.append(str).append(" ")));
+            return builder.toString().trim();
+        } else {
+            return strng;
         }
-        map.values().forEach(Collections::sort);
-        StringBuilder builder = new StringBuilder();
-        map.values().forEach(value ->
-                value.forEach(str -> builder.append(str).append(" ")));
-        return builder.toString().trim();
     }
 }
