@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0c04f96d-147b-44a3-94f8-648da932d0ef" name="Changes" comment="Initial commit">
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-    </list>
+    <list default="true" id="0c04f96d-147b-44a3-94f8-648da932d0ef" name="Changes" comment="Initial commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,7 +33,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "jdk.selected.JAVA_MODULE": "18",
-    "last_opened_file_path": "D:/User/MEGA/Документы/Java/GitHub/Java_Solutions/CodeWars/CodeWars Katas",
+    "last_opened_file_path": "D:/User/MEGA/Документы/Java/GitHub/Java_Solutions/CodeWars/CodeWars Katas/cw_5kyu",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2"
@@ -43,11 +41,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\User\MEGA\Документы\Java\GitHub\Java_Solutions\CodeWars\CodeWars Katas\cw_5kyu" />
       <recent name="D:\User\MEGA\Документы\Java\GitHub\Java_Solutions\CodeWars\CodeWars Katas" />
       <recent name="D:\User\MEGA\Документы\Java\GitHub\Java_Solutions\CodeWars\CodeWars Katas\cw_6kyu" />
       <recent name="D:\User\MEGA\Документы\Java\GitHub\Java_Solutions\CodeWars\CodeWars Katas\cw_7kyu" />
       <recent name="D:\User\MEGA\Документы\Java\GitHub\Java_Solutions\CodeWars" />
-      <recent name="D:\User\MEGA\Документы\Java\GitHub\Java_Solutions\JavaRush\task1326" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\User\MEGA\Документы\Java\GitHub\Java_Solutions\CodeWars\katas\cw_7kyu" />
@@ -181,7 +179,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658524717567</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Initial commit">
+      <created>1658696480037</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1658696480037</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
