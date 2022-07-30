@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0c04f96d-147b-44a3-94f8-648da932d0ef" name="Changes" comment="Initial commit">
-      <change afterPath="$PROJECT_DIR$/CodeWars/CodeWars Katas/cw_5kyu/PaginationHelper/PaginationHelper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeWars/CodeWars Katas/cw_5kyu/PaginationHelper/PaginationHelperTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,7 +37,6 @@
     "Repository.Attach.Sources": "false",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "jdk.selected.JAVA_MODULE": "18",
     "last_opened_file_path": "J:/Мой диск/Java/GitHub/Java_Solutions/CodeWars/CodeWars Katas/cw_5kyu",
     "project.structure.last.edited": "Libraries",
@@ -222,7 +219,42 @@
       <option name="project" value="LOCAL" />
       <updated>1659098300846</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="Initial commit">
+      <created>1659180078958</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1659180078958</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Initial commit">
+      <created>1659180230110</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1659180230110</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Initial commit">
+      <created>1659180381772</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1659180381772</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Initial commit">
+      <created>1659180418021</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1659180418021</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Initial commit">
+      <created>1659180426751</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1659180426751</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
