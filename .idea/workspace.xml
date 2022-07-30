@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0c04f96d-147b-44a3-94f8-648da932d0ef" name="Changes" comment="Initial commit" />
+    <list default="true" id="0c04f96d-147b-44a3-94f8-648da932d0ef" name="Changes" comment="Initial commit">
+      <change afterPath="$PROJECT_DIR$/CodeWars/CodeWars Katas/cw_5kyu/PaginationHelper/PaginationHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeWars/CodeWars Katas/cw_5kyu/PaginationHelper/PaginationHelperTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,12 +33,16 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Downloaded.Files.Path.Enabled": "true",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "jdk.selected.JAVA_MODULE": "18",
     "last_opened_file_path": "J:/Мой диск/Java/GitHub/Java_Solutions/CodeWars/CodeWars Katas/cw_5kyu",
-    "project.structure.last.edited": "Modules",
+    "project.structure.last.edited": "Libraries",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2"
   }
@@ -207,7 +215,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658958713839</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="Initial commit">
+      <created>1659098300846</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1659098300846</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
