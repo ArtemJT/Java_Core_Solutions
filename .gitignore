@@ -1,5 +1,4 @@
-/lib
-/.idea
+lib
+.idea
 *.iml
 *.xml
-/JavaRush 
